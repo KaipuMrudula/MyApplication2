@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "464957687570",
+    "firebase_url": "https://fir-4cef1.firebaseio.com",
+    "project_id": "fir-4cef1",
+    "storage_bucket": "fir-4cef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464957687570:android:d949ffcbeb1eff47",
+        "android_client_info": {
+          "package_name": "com.example.acer.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464957687570-bn32bf8q4ca4qfdr055hq3e80h9cae69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_j3Z6CnUeeWDCwNq0k55opqVNMZxAisg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464957687570:android:9c6b7ee5e40066e3",
+        "android_client_info": {
+          "package_name": "com.example.lavanya.voicebasedemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464957687570-bn32bf8q4ca4qfdr055hq3e80h9cae69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_j3Z6CnUeeWDCwNq0k55opqVNMZxAisg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464957687570:android:1dd8da93a6cc7ae3",
+        "android_client_info": {
+          "package_name": "com.example.manoj.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464957687570-7id1tmbdabk9l8k03hkvmct3r76er367.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manoj.myapplication2",
+            "certificate_hash": "3fae92a25f61f158669e5c0852efea49937e5189"
+          }
+        },
+        {
+          "client_id": "464957687570-bn32bf8q4ca4qfdr055hq3e80h9cae69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_j3Z6CnUeeWDCwNq0k55opqVNMZxAisg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464957687570-bn32bf8q4ca4qfdr055hq3e80h9cae69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
