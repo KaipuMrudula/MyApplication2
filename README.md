@@ -1,3 +1,4 @@
 # FirebaseStorage
 
-## These application is used to store the images in the the firebase storage and the images are stored in my account in the firebase. 
+ This application demonstrates storing images with the help of firebase database.Firebase database is a realtime  
+database from which we can interact with database anywhere.
